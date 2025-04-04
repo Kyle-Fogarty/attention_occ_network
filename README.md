@@ -1,2 +1,2 @@
-# attention_occ_network
+# Attentional Occupancy Networks
 [WIP] Attentional Occupany Network Experiments
